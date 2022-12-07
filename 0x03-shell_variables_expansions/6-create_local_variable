@@ -1,2 +1,2 @@
 #!bin/bash
-BEST=School
+echo " a script that creates a new global variable"
